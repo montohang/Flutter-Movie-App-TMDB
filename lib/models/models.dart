@@ -1,0 +1,13 @@
+part 'movie.dart';
+part 'movie_response.dart';
+part 'person.dart';
+part 'person_response.dart';
+part 'genre.dart';
+part 'genre_response.dart';
+part 'cast.dart';
+part 'company.dart';
+part 'movie_detail.dart';
+part 'movie_detail_response.dart';
+part 'video.dart';
+part 'video_response.dart';
+part 'cast_response.dart';
